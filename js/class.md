@@ -1,4 +1,4 @@
-# calss
+# class
 
 ## 定义
 
